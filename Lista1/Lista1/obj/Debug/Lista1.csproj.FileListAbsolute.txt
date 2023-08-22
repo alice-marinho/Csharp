@@ -1,0 +1,7 @@
+C:\Users\nxxah\OneDrive\Área de Trabalho\POO - atividades\Lista1\Lista1\obj\Debug\Lista1.csproj.AssemblyReference.cache
+C:\Users\nxxah\OneDrive\Área de Trabalho\POO - atividades\Lista1\Lista1\obj\Debug\Lista1.csproj.CoreCompileInputs.cache
+C:\Users\nxxah\OneDrive\Área de Trabalho\POO - atividades\Lista1\Lista1\bin\Debug\Lista1.exe.config
+C:\Users\nxxah\OneDrive\Área de Trabalho\POO - atividades\Lista1\Lista1\bin\Debug\Lista1.exe
+C:\Users\nxxah\OneDrive\Área de Trabalho\POO - atividades\Lista1\Lista1\bin\Debug\Lista1.pdb
+C:\Users\nxxah\OneDrive\Área de Trabalho\POO - atividades\Lista1\Lista1\obj\Debug\Lista1.exe
+C:\Users\nxxah\OneDrive\Área de Trabalho\POO - atividades\Lista1\Lista1\obj\Debug\Lista1.pdb
