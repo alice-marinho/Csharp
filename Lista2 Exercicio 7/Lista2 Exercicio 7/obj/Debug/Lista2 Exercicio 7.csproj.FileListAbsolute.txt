@@ -1,0 +1,7 @@
+C:\Users\nxxah\OneDrive\Área de Trabalho\bagunça\POO - atividades\Lista2 Exercicio 7\Lista2 Exercicio 7\bin\Debug\Lista2 Exercicio 7.exe.config
+C:\Users\nxxah\OneDrive\Área de Trabalho\bagunça\POO - atividades\Lista2 Exercicio 7\Lista2 Exercicio 7\bin\Debug\Lista2 Exercicio 7.exe
+C:\Users\nxxah\OneDrive\Área de Trabalho\bagunça\POO - atividades\Lista2 Exercicio 7\Lista2 Exercicio 7\bin\Debug\Lista2 Exercicio 7.pdb
+C:\Users\nxxah\OneDrive\Área de Trabalho\bagunça\POO - atividades\Lista2 Exercicio 7\Lista2 Exercicio 7\obj\Debug\Lista2 Exercicio 7.csproj.AssemblyReference.cache
+C:\Users\nxxah\OneDrive\Área de Trabalho\bagunça\POO - atividades\Lista2 Exercicio 7\Lista2 Exercicio 7\obj\Debug\Lista2 Exercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\nxxah\OneDrive\Área de Trabalho\bagunça\POO - atividades\Lista2 Exercicio 7\Lista2 Exercicio 7\obj\Debug\Lista2 Exercicio 7.exe
+C:\Users\nxxah\OneDrive\Área de Trabalho\bagunça\POO - atividades\Lista2 Exercicio 7\Lista2 Exercicio 7\obj\Debug\Lista2 Exercicio 7.pdb
