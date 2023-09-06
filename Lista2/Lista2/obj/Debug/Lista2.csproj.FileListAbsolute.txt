@@ -1,0 +1,9 @@
+C:\Users\nxxah\OneDrive\Área de Trabalho\POO - atividades\Lista2\Lista2\obj\Debug\Lista2.csproj.AssemblyReference.cache
+C:\Users\nxxah\OneDrive\Área de Trabalho\POO - atividades\Lista2\Lista2\obj\Debug\Lista2.csproj.CoreCompileInputs.cache
+C:\Users\nxxah\OneDrive\Área de Trabalho\bagunça\POO - atividades\Lista2\Lista2\bin\Debug\Lista2.exe.config
+C:\Users\nxxah\OneDrive\Área de Trabalho\bagunça\POO - atividades\Lista2\Lista2\bin\Debug\Lista2.exe
+C:\Users\nxxah\OneDrive\Área de Trabalho\bagunça\POO - atividades\Lista2\Lista2\bin\Debug\Lista2.pdb
+C:\Users\nxxah\OneDrive\Área de Trabalho\bagunça\POO - atividades\Lista2\Lista2\obj\Debug\Lista2.csproj.AssemblyReference.cache
+C:\Users\nxxah\OneDrive\Área de Trabalho\bagunça\POO - atividades\Lista2\Lista2\obj\Debug\Lista2.csproj.CoreCompileInputs.cache
+C:\Users\nxxah\OneDrive\Área de Trabalho\bagunça\POO - atividades\Lista2\Lista2\obj\Debug\Lista2.exe
+C:\Users\nxxah\OneDrive\Área de Trabalho\bagunça\POO - atividades\Lista2\Lista2\obj\Debug\Lista2.pdb
